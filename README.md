@@ -1,8 +1,9 @@
 # Aplikasi Resep Makanan Khas Kalimantan
 
 Aplikasi Resep Makanan Khas Kalimantan adalah sebuah sistem berbasis web sederhana yang menampilkan berbagai resep masakan khas dari berbagai wilayah di Kalimantan. Aplikasi ini memungkinkan pengguna untuk melihat detail resep, termasuk bahan, bumbu halus, dan cara pembuatannya. Tersedia juga halaman admin untuk pengelolaan data resep.
+
 ## Deskripsi Proyek
-Foem utamalikasi Resep Makanan Khas Kalimantan adalah sebuah sistem berbasis web sederhana yang menampilkan berbagai resep masakan khas dari berbagai wilayah di Kalimantan. Aplikasi ini memungkinkan pengguna untuk melihat detail resep, termasuk bahan, bumbu halus, dan cara pembuatannya. Tersedia juga halaman admin untuk pengelolaan data resep.
+Aplikasi Resep Makanan Khas Kalimantan adalah sebuah sistem berbasis web sederhana yang menampilkan berbagai resep masakan khas dari berbagai wilayah di Kalimantan. Aplikasi ini memungkinkan pengguna untuk melihat detail resep, termasuk bahan, bumbu halus, dan cara pembuatannya. Tersedia juga halaman admin untuk pengelolaan data resep.
 
 ## Deskripsi Proyek
 
