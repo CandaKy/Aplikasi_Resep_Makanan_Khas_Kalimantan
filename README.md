@@ -1,3 +1,7 @@
+# Aplikasi Resep Makanan Khas Kalimantan
+
+Aplikasi Resep Makanan Khas Kalimantan adalah sebuah sistem berbasis web sederhana yang menampilkan berbagai resep masakan khas dari berbagai wilayah di Kalimantan. Aplikasi ini memungkinkan pengguna untuk melihat detail resep, termasuk bahan, bumbu halus, dan cara pembuatannya. Tersedia juga halaman admin untuk pengelolaan data resep.
+## Deskripsi Proyek
 Foem utamalikasi Resep Makanan Khas Kalimantan adalah sebuah sistem berbasis web sederhana yang menampilkan berbagai resep masakan khas dari berbagai wilayah di Kalimantan. Aplikasi ini memungkinkan pengguna untuk melihat detail resep, termasuk bahan, bumbu halus, dan cara pembuatannya. Tersedia juga halaman admin untuk pengelolaan data resep.
 
 ## Deskripsi Proyek
@@ -53,8 +57,14 @@ Jika Anda belum memiliki Laragon, unduh dan instal dari situs resmi: [https://la
   ```
   Ganti `<URL_REPOSITORI_ANDA>` dengan URL repositori Git Anda dan `resep-makanan` dengan nama folder yang Anda inginkan.
 - Jika Anda memiliki file aplikasi secara lokal, salin semua file aplikasi ke dalam folder baru di `C:\laragon\www`, misalnya `C:\laragon\www\resep-makanan`.
+- 
+### 3. Login Admin
 
-### 3. Konfigurasi Database
+    - Akses halaman login admin: `http://localhost/Resep%20Makanan/admin/index.php` 
+    - User ID: `admin`
+    - Sandi: `01admin` (password plain text yang Anda hash ke database)
+    
+### 4. Konfigurasi Database
 
 Aplikasi ini menggunakan database MySQL dengan skema berikut:
 
